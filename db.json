@@ -17,8 +17,7 @@
       "label": "Read Post",
       "url": "/decarative/Aerocool1",
       "target": ""
-    }
-    },
+    }    },
     {
     "id": 2,
     "slug":"Aerocool2",
@@ -28,8 +27,7 @@
      "fan_services_item4_text": "Air Delivery : 240(cmm)",
      "fan_services_item5_text": "RPM : 310",
      "fan_src": "/Aerolite-brown.png",
-     "fan_services_item6_text": "know more"
-    },
+     "fan_services_item6_text": "know more"    },
     {
     "id": 3,
     "slug":"Aerocool3",
@@ -39,8 +37,7 @@
      "fan_services_item4_text": "Air Delivery : 300(cmm)",
      "fan_services_item5_text": "RPM : 300",
      "fan_src": "/aero-quite-broen.png",
-     "fan_services_item6_text": "know more"
-    },
+     "fan_services_item6_text": "know more"    },
     {
     "id": 4,
     "slug":"Aerocool4",
@@ -50,8 +47,7 @@
      "fan_services_item4_text": "Air Delivery : 300(cmm)",
      "fan_services_item5_text": "RPM : 300",
      "fan_src": "/AEROSLIM-Brown.png",
-     "fan_services_item6_text": "know more"
-    },
+     "fan_services_item6_text": "know more"    },
     {
     "id": 5,
     "slug":"Aerocool5",
@@ -74,15 +70,14 @@
      "wire_product_item4_text": "size : 0.75MM",
      "fan_src": "/ADVANCE---FR.png",
      "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
-    },
+     "table_heading":"Name of the product",
+     "table_heading_code":"Product code",
+     "table_heading_size":"size -SQ.MM",
+     "product_name":"Advance - Fr -90 meter",
+     "product_code":"27390",
+     "product_size":"0.75"
+  
+         },
     {
      "id": 2,
      "slug":"wire2",
@@ -92,15 +87,14 @@
      "wire_product_item4_text": "size : 0.75MM",
      "fan_src": "/ADVANCE-EFFR-1.png",
      "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
-    },
+     "table_heading":"Name of the product",
+     "table_heading_code":"Product code",
+     "table_heading_size":"size -SQ.MM",
+     "product_name":"Advance - Fr -90 meter",
+     "product_code":"27390",
+     "product_size":"0.75"
+  
+         },
     {
      "id": 3,
      "slug":"wire3",
@@ -110,15 +104,14 @@
      "wire_product_item4_text": "size : 0.75MM",
      "fan_src": "/180-meters.png",
      "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
-    },
+     "table_heading":"Name of the product",
+     "table_heading_code":"Product code",
+     "table_heading_size":"size -SQ.MM",
+     "product_name":"Advance - Fr -90 meter",
+     "product_code":"27390",
+     "product_size":"0.75"
+  
+         },
     {
      "id": 4,
      "slug":"wire4",
@@ -128,15 +121,14 @@
      "wire_product_item4_text": "size : 6.00MM",
      "fan_src": "/Namo-FR.png",
      "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
-    },
+     "table_heading":"Name of the product",
+     "table_heading_code":"Product code",
+     "table_heading_size":"size -SQ.MM",
+     "product_name":"Advance - Fr -90 meter",
+     "product_code":"27390",
+     "product_size":"0.75"
+  
+         },
     {
      "id": 5,
      "slug":"wire5",
@@ -146,14 +138,13 @@
      "wire_product_item4_text": "size : 0.75MM",
      "fan_src": "/Namo-effer.png",
      "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
+     "table_heading":"Name of the product",
+     "table_heading_code":"Product code",
+     "table_heading_size":"size -SQ.MM",
+     "product_name":"Advance - Fr -90 meter",
+     "product_code":"27390",
+     "product_size":"0.75"
+  
     },
     {
      "id": 6,
@@ -164,15 +155,14 @@
      "wire_product_item4_text": "size : 0.75MM",
      "fan_src": "/TWIN-CORE-TWISTED-WIRE-1.png",
      "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
-    },
+     "table_heading":"Name of the product",
+     "table_heading_code":"Product code",
+     "table_heading_size":"size -SQ.MM",
+     "product_name":"Advance - Fr -90 meter",
+     "product_code":"27390",
+     "product_size":"0.75"
+  
+         },
     {
      "id": 7,
      "slug":"wire7",
@@ -182,15 +172,14 @@
      "wire_product_item4_text": "size : 1.00MM",
      "fan_src": "/TELEPHONE-CABLE-1.png",
      "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
-    },
+     "table_heading":"Name of the product",
+     "table_heading_code":"Product code",
+     "table_heading_size":"size -SQ.MM",
+     "product_name":"Advance - Fr -90 meter",
+     "product_code":"27390",
+     "product_size":"0.75"
+  
+         },
     {
      "id": 8,
      "slug":"wire8",
@@ -200,15 +189,14 @@
      "wire_product_item4_text": "size : 1.00MM",
      "fan_src": "/TELEPHONE-CABLE-2.png",
      "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
-    },
+     "table_heading":"Name of the product",
+     "table_heading_code":"Product code",
+     "table_heading_size":"size -SQ.MM",
+     "product_name":"Advance - Fr -90 meter",
+     "product_code":"27390",
+     "product_size":"0.75"
+  
+         },
     {
      "id": 9,
      "slug":"wire9",
@@ -218,15 +206,14 @@
      "wire_product_item4_text": "size : 305 METER",
      "fan_src": "/ANCHOR-23-AWG-UTP-CAT6-CABLE-1.png",
      "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
-    },
+     "table_heading":"Name of the product",
+     "table_heading_code":"Product code",
+     "table_heading_size":"size -SQ.MM",
+     "product_name":"Advance - Fr -90 meter",
+     "product_code":"27390",
+     "product_size":"0.75"
+  
+         },
     {
      "id": 10,
      "slug":"wire10",
@@ -236,14 +223,14 @@
      "wire_product_item4_text": "size : CU CO-AXIAL 305 METER",
      "fan_src": "/RG-6-CO-AXIAL-CABLE-2.png",
      "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
+     "table_heading":"Name of the product",
+     "table_heading_code":"Product code",
+     "table_heading_size":"size -SQ.MM",
+     "product_name":"Advance - Fr -90 meter",
+     "product_code":"27390",
+     "product_size":"0.75"
+  
+     
     }
    ]
 }
