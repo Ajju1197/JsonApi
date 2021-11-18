@@ -5,6 +5,7 @@
     {
     "id": 1,
     "slug":"Aerocool1",
+    "headingname":"eruoupa",
      "fan_services_item1_text": "Aero-cool",
      "fan_services_item2_text": "Order Code",
      "fan_services_item3_text": "Sweep (mm) : 1360",
@@ -61,6 +62,125 @@
      "fan_services_item5_text": "RPM : 300",
      "fan_src": "/aero-storm-charcoal-grey.png",
      "fan_services_item6_text": "know more"
+    }
+   ],
+   "wires": [
+    {
+     "id": 1,
+     "wire_product_item1_text": "ADVANCE-FR-90 METER",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : 27380",
+     "wire_product_item4_text": "size : 0.75MM",
+     "fan_src": "/ADVANCE---FR.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 2,
+     "wire_product_item1_text": "ADVANCE-FR-90 METER",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : 27380",
+     "wire_product_item4_text": "size : 0.75MM",
+     "fan_src": "/ADVANCE-EFFR-1.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 3,
+     "wire_product_item1_text": "ADVANCE-FR-180 METER",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : P-27380",
+     "wire_product_item4_text": "size : 0.75MM",
+     "fan_src": "/180-meters.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 4,
+     "wire_product_item1_text": "NEMO ADVANCE FR-45 METER",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : 27446",
+     "wire_product_item4_text": "size : 6.00MM",
+     "fan_src": "/Namo-FR.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 5,
+     "wire_product_item1_text": "NEMO ADVANCE EFFR-45 METER",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : 27661",
+     "wire_product_item4_text": "size : 0.75MM",
+     "fan_src": "/Namo-effer.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 6,
+     "wire_product_item1_text": "TWIN CORE TWISTED WIRE",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : 27471RB",
+     "wire_product_item4_text": "size : 0.75MM",
+     "fan_src": "/TWIN-CORE-TWISTED-WIRE-1.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 7,
+     "wire_product_item1_text": "TELEPHONE CABLE 0.40 MM-90 METER",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : 28189",
+     "wire_product_item4_text": "size : 1.00MM",
+     "fan_src": "/TELEPHONE-CABLE-1.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 8,
+     "wire_product_item1_text": "TELEPHONE CABLE 0.50 MM - 90 METER",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : 28881",
+     "wire_product_item4_text": "size : 1.00MM",
+     "fan_src": "/TELEPHONE-CABLE-2.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 9,
+     "wire_product_item1_text": "ANCHOR 23 AWG UTP CAT6 CABLE",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : 28124GY",
+     "wire_product_item4_text": "size : 305 METER",
+     "fan_src": "/ANCHOR-23-AWG-UTP-CAT6-CABLE-1.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 10,
+     "wire_product_item1_text": "RG-6 CO-AXIAL CABLE",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : RG6CU305",
+     "wire_product_item4_text": "size : CU CO-AXIAL 305 METER",
+     "fan_src": "/RG-6-CO-AXIAL-CABLE-2.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 11,
+     "wire_product_item1_text": "CCTV CABLE",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : CT31CU90",
+     "wire_product_item4_text": "size : ANCHOR 3+1 COPPER CCTV CABLE 90 METER",
+     "fan_src": "/CCTV-CABLE.png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 12,
+     "wire_product_item1_text": "ANCHOR INDUSTRIAL MULTICORE FLEXIBLE CABLE (FR)",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : 93649BK-1",
+     "wire_product_item4_text": "size : 0.50MM",
+     "fan_src": "/INDUSTRIAL-MULTICORE-FLEXIBLE-CABLE-(FR).png",
+     "wire_product_item5_text": "know more"
+    },
+    {
+     "id": 13,
+     "wire_product_item1_text": "3 CORE FLAT SUBMERSIBLE CABLE",
+     "wire_product_item2_text": "product Code",
+     "wire_product_item3_text": "id : 3CF15",
+     "wire_product_item4_text": "size : 3CORE X 1.50 SQ.MM.",
+     "fan_src": "/MULTICORE-CABLE-HIGHER-SIZES.png",
+     "wire_product_item5_text": "know more"
     }
    ]
 }
