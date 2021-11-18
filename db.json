@@ -73,9 +73,9 @@
      "table_heading":"Name of the product",
      "table_heading_code":"Product code",
      "table_heading_size":"size -SQ.MM",
-     "product_name":"Advance - Fr -90 meter",
-     "product_code":"27390",
-     "product_size":"0.75"
+     "product_name":"Advance - Fr -9100 meter",
+     "product_code":"27890",
+     "product_size":"0.95"
   
          },
     {
@@ -107,9 +107,9 @@
      "table_heading":"Name of the product",
      "table_heading_code":"Product code",
      "table_heading_size":"size -SQ.MM",
-     "product_name":"Advance - Fr -90 meter",
-     "product_code":"27390",
-     "product_size":"0.75"
+     "product_name":"Advance - Fr -200 meter",
+     "product_code":"390",
+     "product_size":"0.5"
   
          },
     {
@@ -124,9 +124,9 @@
      "table_heading":"Name of the product",
      "table_heading_code":"Product code",
      "table_heading_size":"size -SQ.MM",
-     "product_name":"Advance - Fr -90 meter",
-     "product_code":"27390",
-     "product_size":"0.75"
+     "product_name":"",
+     "product_code":"270",
+     "product_size":"0.5"
   
          },
     {
@@ -142,8 +142,8 @@
      "table_heading_code":"Product code",
      "table_heading_size":"size -SQ.MM",
      "product_name":"Advance - Fr -90 meter",
-     "product_code":"27390",
-     "product_size":"0.75"
+     "product_code":"270",
+     "product_size":"0.5"
   
     },
     {
@@ -158,9 +158,9 @@
      "table_heading":"Name of the product",
      "table_heading_code":"Product code",
      "table_heading_size":"size -SQ.MM",
-     "product_name":"Advance - Fr -90 meter",
-     "product_code":"27390",
-     "product_size":"0.75"
+     "product_name":"Advance - Fr -9 meter",
+     "product_code":"27790",
+     "product_size":"0.5"
   
          },
     {
@@ -176,8 +176,8 @@
      "table_heading_code":"Product code",
      "table_heading_size":"size -SQ.MM",
      "product_name":"Advance - Fr -90 meter",
-     "product_code":"27390",
-     "product_size":"0.75"
+     "product_code":"21090",
+     "product_size":"0.85"
   
          },
     {
@@ -193,7 +193,7 @@
      "table_heading_code":"Product code",
      "table_heading_size":"size -SQ.MM",
      "product_name":"Advance - Fr -90 meter",
-     "product_code":"27390",
+     "product_code":"",
      "product_size":"0.75"
   
          },
@@ -209,7 +209,7 @@
      "table_heading":"Name of the product",
      "table_heading_code":"Product code",
      "table_heading_size":"size -SQ.MM",
-     "product_name":"Advance - Fr -90 meter",
+     "product_name":"",
      "product_code":"27390",
      "product_size":"0.75"
   
@@ -227,8 +227,8 @@
      "table_heading_code":"Product code",
      "table_heading_size":"size -SQ.MM",
      "product_name":"Advance - Fr -90 meter",
-     "product_code":"27390",
-     "product_size":"0.75"
+     "product_code":"",
+     "product_size":""
   
      
     }
