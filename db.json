@@ -280,24 +280,6 @@
        "product_code":"27390",
        "product_size":"0.75"
      }
-    },
-    {
-     "id": 13,
-     "slug":"wire13",
-     "wire_product_item1_text": "3 CORE FLAT SUBMERSIBLE CABLE",
-     "wire_product_item2_text": "product Code",
-     "wire_product_item3_text": "id : 3CF15",
-     "wire_product_item4_text": "size : 3CORE X 1.50 SQ.MM.",
-     "fan_src": "/MULTICORE-CABLE-HIGHER-SIZES.png",
-     "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
     }
    ]
 }
