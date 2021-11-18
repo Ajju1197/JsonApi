@@ -67,6 +67,7 @@
    "wires": [
     {
      "id": 1,
+     "slug":"wire1",
      "wire_product_item1_text": "ADVANCE-FR-90 METER",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : 27380",
@@ -76,6 +77,7 @@
     },
     {
      "id": 2,
+     "slug":"wire2",
      "wire_product_item1_text": "ADVANCE-FR-90 METER",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : 27380",
@@ -85,6 +87,7 @@
     },
     {
      "id": 3,
+     "slug":"wire3",
      "wire_product_item1_text": "ADVANCE-FR-180 METER",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : P-27380",
@@ -94,6 +97,7 @@
     },
     {
      "id": 4,
+     "slug":"wire4",
      "wire_product_item1_text": "NEMO ADVANCE FR-45 METER",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : 27446",
@@ -103,6 +107,7 @@
     },
     {
      "id": 5,
+     "slug":"wire5",
      "wire_product_item1_text": "NEMO ADVANCE EFFR-45 METER",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : 27661",
@@ -112,6 +117,7 @@
     },
     {
      "id": 6,
+     "slug":"wire6",
      "wire_product_item1_text": "TWIN CORE TWISTED WIRE",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : 27471RB",
@@ -121,6 +127,7 @@
     },
     {
      "id": 7,
+     "slug":"wire7",
      "wire_product_item1_text": "TELEPHONE CABLE 0.40 MM-90 METER",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : 28189",
@@ -130,6 +137,7 @@
     },
     {
      "id": 8,
+     "slug":"wire8",
      "wire_product_item1_text": "TELEPHONE CABLE 0.50 MM - 90 METER",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : 28881",
@@ -139,6 +147,7 @@
     },
     {
      "id": 9,
+     "slug":"wire9",
      "wire_product_item1_text": "ANCHOR 23 AWG UTP CAT6 CABLE",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : 28124GY",
@@ -148,6 +157,7 @@
     },
     {
      "id": 10,
+     "slug":"wire10",
      "wire_product_item1_text": "RG-6 CO-AXIAL CABLE",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : RG6CU305",
@@ -157,6 +167,7 @@
     },
     {
      "id": 11,
+     "slug":"wire11",
      "wire_product_item1_text": "CCTV CABLE",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : CT31CU90",
@@ -166,6 +177,7 @@
     },
     {
      "id": 12,
+     "slug":"wire12",
      "wire_product_item1_text": "ANCHOR INDUSTRIAL MULTICORE FLEXIBLE CABLE (FR)",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : 93649BK-1",
@@ -175,6 +187,7 @@
     },
     {
      "id": 13,
+     "slug":"wire13",
      "wire_product_item1_text": "3 CORE FLAT SUBMERSIBLE CABLE",
      "wire_product_item2_text": "product Code",
      "wire_product_item3_text": "id : 3CF15",
