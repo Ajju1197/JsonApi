@@ -244,42 +244,6 @@
        "product_code":"27390",
        "product_size":"0.75"
      }
-    },
-    {
-     "id": 11,
-     "slug":"wire11",
-     "wire_product_item1_text": "CCTV CABLE",
-     "wire_product_item2_text": "product Code",
-     "wire_product_item3_text": "id : CT31CU90",
-     "wire_product_item4_text": "size : ANCHOR 3+1 COPPER CCTV CABLE 90 METER",
-     "fan_src": "/CCTV-CABLE.png",
-     "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
-    },
-    {
-     "id": 12,
-     "slug":"wire12",
-     "wire_product_item1_text": "ANCHOR INDUSTRIAL MULTICORE FLEXIBLE CABLE (FR)",
-     "wire_product_item2_text": "product Code",
-     "wire_product_item3_text": "id : 93649BK-1",
-     "wire_product_item4_text": "size : 0.50MM",
-     "fan_src": "/INDUSTRIAL-MULTICORE-FLEXIBLE-CABLE-(FR).png",
-     "wire_product_item5_text": "know more",
-     "table":{
-       "table_heading":"Name of the product",
-       "table_heading_code":"Product code",
-       "table_heading_size":"size -SQ.MM",
-       "product_name":"Advance - Fr -90 meter",
-       "product_code":"27390",
-       "product_size":"0.75"
-     }
     }
    ]
 }
